@@ -19,7 +19,7 @@ P1,3dgs_implicit,"SplaTAM: Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM"
 P1,3dgs_implicit,Gaussian Splatting SLAM (MonoGS),2024,CVPR,https://github.com/muskie82/MonoGS,高斯地图/单目跟踪,待核对,
 P1,3dgs_implicit,"Photo-SLAM: Real-time Simultaneous Localization and Photorealistic Mapping for Monocular, Stereo, and RGB-D Cameras",2024,CVPR,https://github.com/HuajianUP/Photo-SLAM,几何跟踪+高斯建图,待核对,
 P1,depth_estimation,Vision Transformers for Dense Prediction,2021,ICCV,https://openaccess.thecvf.com/content/ICCV2021/html/Ranftl_Vision_Transformers_for_Dense_Prediction_ICCV_2021_paper.html,DPT/多尺度解码/相对逆深度,待核对,
-P0,depth_estimation,Depth Anything V2,2024,NeurIPS,https://github.com/DepthAnything/Depth-Anything-V2,单目深度/监督与伪标签/相对和米制版本,待核对,
+P0,depth_estimation,Depth Anything V2,2024,NeurIPS,https://github.com/DepthAnything/Depth-Anything-V2,单目深度/监督与伪标签/相对和米制版本,首轮已读/问答核验中,depth_estimation/Depth_Anything_V2_zh/reading_notes.md
 P1,depth_estimation,Metric3Dv2: A Versatile Monocular Geometric Foundation Model for Zero-shot Metric Depth and Surface Normal Estimation,2024,TPAMI,https://github.com/YvanYin/Metric3D,米制深度/相机空间/法向,待核对,
 P1,depth_estimation,RAFT-Stereo: Multilevel Recurrent Field Transforms for Stereo Matching,2021,3DV,https://github.com/princeton-vl/RAFT-Stereo,校正双目/相关性/循环视差更新,待核对,
 P0,depth_estimation,Non-Local Spatial Propagation Network for Depth Completion,2020,ECCV,https://github.com/zzangjinsun/NLSPN_ECCV20,稀疏补全/非局部传播/置信度,待核对,
