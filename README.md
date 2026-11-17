@@ -1,8 +1,5 @@
 # 三维视觉与机器人算法学习记录
 
-
-学习安排见 [路线图](00_planning/roadmap.md) 和 [技能矩阵](00_planning/skill_matrix.md)。论文从 [论文索引](02_papers/paper_index.csv) 查找，项目入口在 [04_projects](04_projects/)。
-
 ## 学习方向
 
 | 方向 | 主要内容 | 计划完成的工作 |
